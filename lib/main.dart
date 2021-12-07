@@ -54,9 +54,9 @@ class MyApp extends StatelessWidget {
                         //   color: Colors.blue,
                         // )
                         Image(
-                          image: AssetImage('assets/download.png'),
-                          width: 80,
-                          height: 80,
+                          image: AssetImage('assets/sangar.jpg'),
+                          width: 50,
+                          height: 50,
                           fit: BoxFit.cover,
                         ),
                       ],
@@ -86,7 +86,7 @@ class MyApp extends StatelessWidget {
                           height: 20,
                         ),
                         Text(
-                          '2/3/2021',
+                          '7/12/2021',
                           style: TextStyle(
                             fontSize: 20,
                           ),
@@ -108,7 +108,10 @@ class MyApp extends StatelessWidget {
             //         'https://phantom-marca.unidadeditorial.es/6e230bb2f73bda5bec9e16692e4aaac9/resize/660/f/webp/assets/multimedia/imagenes/2021/09/02/16306102617376.jpg',
             //       )),
             // )
-            // Image(image: AssetImage('assets/xom.jpg')),
+            // Image(
+            //     height: 400,
+            //     width: 500,
+            //     image: AssetImage('assets/sangar.jpg')),
           ],
         ),
       ),
